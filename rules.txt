@@ -1,0 +1,68 @@
+90–9–1Principle(1%Rule) . . . . . . . . . . . . . . . . . . . . . 
+90–90Rule . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Amdahl’sLaw. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheBrokenWindowsTheory . . . . . . . . . . . . . . . . . . . . 
+Brooks’Law. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+CAPTheorem(Brewer’sTheorem) . . . . . . . . . . . . . . . . . 
+Clarke’sthreelaws . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Conway’sLaw. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Cunningham’sLaw. . . . . . . . . . . . . . . . . . . . . . . . . . 
+Dunbar’sNumber. . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheDunning-KrugerEffect . . . . . . . . . . . . . . . . . . . . . 
+Fitts’Law. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Gall’sLaw. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Goodhart’sLaw. . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Hanlon’sRazor . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Hick’sLaw(Hick-HymanLaw) . . . . . . . . . . . . . . . . . . . 
+Hofstadter’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Hutber’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheHypeCycle&Amara’sLaw . . . . . . . . . . . . . . . . . . 
+Hyrum’sLaw(TheLawofImplicitInterfaces). . . . . . . . . . . 
+Input-Process-Output(IPO). . . . . . . . . . . . . . . . . . . . . 
+Kernighan’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Koomey’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Linus’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Metcalfe’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Moore’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Murphy’sLaw/Sod’sLaw . . . . . . . . . . . . . . . . . . . . . 
+Occam’sRazor . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Parkinson’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+PrematureOptimizationEffect . . . . . . . . . . . . . . . . . . . 
+Putt’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Reed’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheBitterLesson . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheRingelmannEffect. . . . . . . . . . . . . . . . . . . . . . . . 
+TheLawofConservationofComplexity(Tesler’sLaw) . . . . . . 
+TheLawofDemeter . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheLawofLeakyAbstractions . . . . . . . . . . . . . . . . . . . 
+TheLawoftheInstrument . . . . . . . . . . . . . . . . . . . . . 
+TheLawofTriviality. . . . . . . . . . . . . . . . . . . . . . . . . 
+TheUnixPhilosophy. . . . . . . . . . . . . . . . . . . . . . . . .
+TheScoutRule . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheSpotifyModel . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheTwoPizzaRule . . . . . . . . . . . . . . . . . . . . . . . . . 
+Twyman’slaw. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Wadler’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Wheaton’sLaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Principles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+AllModelsAreWrong(GeorgeBox’sLaw) . . . . . . . . . . . . 
+Chesterton’sFence . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Kerckhoffs’sprinciple. . . . . . . . . . . . . . . . . . . . . . . . . 
+TheDeadSeaEffect . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheDilbertPrinciple. . . . . . . . . . . . . . . . . . . . . . . . . 
+TheParetoPrinciple(The80/20Rule). . . . . . . . . . . . . . . 
+TheShirkyPrinciple . . . . . . . . . . . . . . . . . . . . . . . . . 
+ThePeterPrinciple. . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheRobustnessPrinciple(Postel’sLaw) . . . . . . . . . . . . . . 
+SOLID. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheSingleResponsibilityPrinciple . . . . . . . . . . . . . . . . . 
+TheOpen/ClosedPrinciple . . . . . . . . . . . . . . . . . . . . . 
+TheLiskovSubstitutionPrinciple. . . . . . . . . . . . . . . . . . 
+TheInterfaceSegregationPrinciple . . . . . . . . . . . . . . . . . 
+TheDependencyInversionPrinciple . . . . . . . . . . . . . . . . 
+TheDRYPrinciple . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheKISSprinciple . . . . . . . . . . . . . . . . . . . . . . . . . . 
+YAGNI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+TheFallaciesofDistributedComputing . . . . . . . . . . . . . . 
+ThePrincipleofLeastAstonishment . . . . . . . . . . . . . . . .
+ 
