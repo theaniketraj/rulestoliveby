@@ -1,12 +1,11 @@
-TheSpotifyModel 
+
 Twyman’slaw 
 Wadler’sLaw 
 Wheaton’sLaw 
 Principles 
 AllModelsAreWrong(GeorgeBox’sLaw) 
 Kerckhoffs’sprinciple 
-TheDeadSeaEffect 
-TheDilbertPrinciple
+
 TheShirkyPrinciple
 TheRobustnessPrinciple(Postel’sLaw) 
 SOLID
